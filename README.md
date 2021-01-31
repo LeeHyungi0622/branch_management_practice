@@ -1,6 +1,6 @@
 # **실습내용**
 
-![](/images/210129_git_flow.png)
+![](./img/210129_git_flow.png)
 
 1. 프로젝트에 git flow init을 사용하여, master, develop, feature, hotfix, release branch를 구성한다.
 
